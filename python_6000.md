@@ -1,3 +1,8 @@
+[Variable] (# Variable)
+[jadu] (# jadu)
+
+# Variable 
+
 # 01 Create a Variable named and Stor your name 
 ```
 name = "farukh"
@@ -18,6 +23,7 @@ a = 12
 
 print(a)
 ```
+# jadu
 
 # 04 Create tow Variables and print both.
 ```
