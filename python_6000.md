@@ -1,7 +1,8 @@
-[Variable] (# Variable)
-[jadu] (# jadu)
-
-# Variable 
+---
+[Variable](# Variable)
+[jadu](# jadu)
+---
+## Variable 
 
 # 01 Create a Variable named and Stor your name 
 ```
@@ -23,7 +24,7 @@ a = 12
 
 print(a)
 ```
-# jadu
+## jadu
 
 # 04 Create tow Variables and print both.
 ```
