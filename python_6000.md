@@ -153,3 +153,8 @@ print(age)
 a, b, c = 1, 2, 3
 print(a, b, c)
 ```
+### 22. Assign the same value to three variables.
+```python
+a, b, c = 10, 10, 10
+print(a, b, c)
+```
