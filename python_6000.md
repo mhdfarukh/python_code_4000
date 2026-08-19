@@ -1,7 +1,12 @@
 # Python Variables Practice
 
-- [Variable](#variable)
+- [Variable](#variables-1-50)
 - [Multiple Assignment](#multiple-assignment-21-35)
+- [Practice Problems](#Practice-Problems-36-50)
+- [2.Data Types](#Data-Types-51-100)
+- [3.Type Conversion](#Type-Conversion-101-150)
+- [4.Type Casting & Input Problems](#Type-Casting-&-Input-Problems-151-200)
+- [Python Comparison Operators Practice Questions](#Python-Comparison-Operators-Practice-Questions)
 
 ---
 
@@ -158,3 +163,97 @@ print(a, b, c)
 a, b, c = 10, 10, 10
 print(a, b, c)
 ```
+## 23. Swap two variable.
+```python
+a = 20
+b = 30
+a, b = b, a
+print("a", a)
+print("b", b)
+```
+
+# 24. Swap three variable.
+```python
+a = 10
+b = 20
+c = 30
+a, b, c = c, b, a
+print("a", a)
+print("b", b)
+print("c", c)
+```
+# 25.  print variables before swapping.
+```python
+a = 10
+b = 20
+a = a + b # 30
+
+b = a - b # 20
+a = a - b # 10
+
+print("a =", a)
+print("b =", b)
+```
+
+# 26. print vaeriables after swapping.
+```python
+a = 10
+b = 20
+# swapping logic 
+a = a + b  # 30
+b = a - b  # 10 
+a = a - b  # 20
+
+# print variable after swpping
+print("a =", a)
+print("b =", b)
+```
+
+# 27. Create variables using meaningful name.
+```python
+age  = 22
+name = "rahul"
+city = "Varanasi"
+print(age)
+print(name)
+print(city)
+```
+# 28. Create variable using snake_case.
+```python
+first_name = "farukh"
+last_name = "khan"
+student_age = 23
+college_name = "J N M college"
+
+print(first_name)
+print(last_name)
+print(student_age)
+print(college_name)
+```
+# 29. Craate variables with uppercase names.
+```Python
+NAME = "farukh"
+AGE = 23
+COLLEGE ="JNM College"
+     # Uppercase Wale me Variables CAPIATAL me hata h 
+print(NAME)
+print(AGE)
+print(COLLEGE)
+```
+# 30. Store different data type in diffrerent variable.
+```Python
+name = "farukh"  # string
+age =  22        # int
+height = 5.3     # float
+is_student = True # booolean
+cities = ("varanasi", "delihi")  # tupel
+number = {1, 2, 3}   # set
+
+print(name)
+print(age)
+print(height)
+print(is_student)
+print(cities)
+print(number)
+```
+

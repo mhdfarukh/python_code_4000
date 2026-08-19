@@ -120,6 +120,14 @@ print(age)
 # Multiple Assignment (21-35)
 
 # 21. Assign three Varibale in one line.
+a, b, c = 1, 2, 3
+
+print(a, b, c)
+
+# 22. Assign the same value to three variables.
+a, b, c = 10, 10, 10
+
+print(a, b, c)
 
 
 

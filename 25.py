@@ -1,5 +1,10 @@
 # print variables before swapping.
-x = 2
-y = 5 
-x, y = y, x
-print(x, b)
+a = 10
+b = 20
+a = a + b # 30
+
+b = a - b # 20
+a = a - b # 10
+
+print("a =", a)
+print("b =", b)

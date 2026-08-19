@@ -1,4 +1,2 @@
 
-height = 50.2
-print("width", width)
-print("height", height)
+print(my_city)

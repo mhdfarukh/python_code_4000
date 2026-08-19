@@ -1,5 +1,8 @@
 # Create variables using meaningful name.
 age  = 22
 name = "rahul"
-print(age, name)
+city = "Varanasi"
+print(age)
+print(name)
+print(city)
 
