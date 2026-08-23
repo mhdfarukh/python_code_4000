@@ -343,14 +343,19 @@ print(EE)
 print(type(EE))
 
 # 116. Convert String to tuple.
-
-
+k = "Aman"
+k = tuple(k)
+print(k)
+print(type(k))
 
 # 117. Convert String to Set.
-
-
+lx= "Rohan"
+lx= set(lx)
+print(lx)
+print(type(lx))
 
 # 118. Convert tuple to set.
+
 
 
 
@@ -359,6 +364,9 @@ print(type(EE))
 
 
 # 120. Convert list to String.
+
+
+ 
 
 
 

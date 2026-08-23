@@ -1,1 +1,0 @@
-# Calculate profit or loss.
