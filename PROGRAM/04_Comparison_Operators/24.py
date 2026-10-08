@@ -1,0 +1,1 @@
+# 24. Write a program to compare two numbers using >=.

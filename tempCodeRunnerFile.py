@@ -83,6 +83,7 @@ else:
 
     # Greater Than (>)
 
+
 # 11.Write a program to check if one number is greater than another.
 h = 49
 g = 23
@@ -92,21 +93,13 @@ else:
     print("nhi chota h")
 
 # 12. Write a program to check if a student's marks are greater than 90.
-marks1 = 90
-marks2 = 84
-if marks1 > marks2:
-    print("12.","jada h")
+stud1 = 90
+stud2 = 85
+if stud1 > stud2:
+    print("12:", " marks jada h")
 else:
-    print("caam h ")
+    print("12:", "marks kam h")
 
-
-# 13. Write a program to check if a person's age is greater than 18.
-agee1 = 18
-agee2 = 15
-if agee1 > agee2:
-    print("13.","ye bada h")
-else:
-    print("13.","ye chota")
 
 # 14. Write a program to compare two salaries.
 pay1 = 4000
@@ -129,5 +122,5 @@ a = "suraj"
 b = "shivam"
 if a == b:
     print("equla h")
-else:
-    print("equla nhi h")
+else:25
+print("equla nhi h")

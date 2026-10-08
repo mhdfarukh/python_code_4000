@@ -1,0 +1,1 @@
+# 100. Store multiline string.

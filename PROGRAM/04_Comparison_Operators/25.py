@@ -1,0 +1,1 @@
+# 25. Write a program to check if stock quantity is greater than or equal to 100
