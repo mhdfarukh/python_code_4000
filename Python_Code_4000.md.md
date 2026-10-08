@@ -14,12 +14,12 @@ and practice problems from beginner to intermediate level.
 ## 📚 Table of Contents
 
 - 1. [Variable](#1-variables)
-- 2. [Multiple Assignment](#multiple-assignment)
-- 3. [Practice Problems](#Practice-Problems)
-- 4. [2. Data Types](#2-Data-Types)
-- 5. [3. Type Conversion](#3-Type-Conversion)
-- 6. [4. Type Casting & Input Problems](#4-Type-Casting--Input-Problems)
-- 7. [Python Comparison Operators Practice Questions](#Python-Comparison-Operators-Practice-Questions)
+- 2. [Multiple Assignment](#2-multiple-assignment)
+- 3. [Practice Problems](#3-practice-problems)
+- 4. [2. Data Types](#2-data-types)
+- 5. [3. Type Conversion](#3-type-conversion)
+- 6. [4. Type Casting & Input Problems](#4-type-casting--input-problems)
+- 7. [Python Comparison Questions](#python-comparison-operators-practice-questions)
 ---
 
 # 1. Variables
